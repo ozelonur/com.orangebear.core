@@ -8,7 +8,7 @@
     "dependencies" : {},
     "repository" : {
       "type" : "git",
-      "url" : "https://github.com/ozelonur/com.orangebear.eventsystem.git"
+      "url" : "https://github.com/ozelonur/com.orangebear.core.git"
     }
   
 }

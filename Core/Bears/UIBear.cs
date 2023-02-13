@@ -81,7 +81,7 @@ namespace OrangeBear.Core
         protected virtual void StartGame()
         {
             Activate(PanelEnums.Game);
-            Roar(GameEvents.NextLevel);
+            Roar(GameEvents.OnGameStart);
         }
 
         protected virtual void RetryGame()

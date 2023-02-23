@@ -69,7 +69,7 @@ namespace OrangeBear.Core
             Activate(panelType);
         }
 
-        private void InitLevel(object[] arguments)
+        protected virtual void InitLevel(object[] arguments)
         {
             Activate(PanelEnums.MainMenu);
         }

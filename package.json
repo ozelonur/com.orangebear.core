@@ -1,7 +1,7 @@
 {
     "name" : "com.orangebear.core",
     "displayName" : "Orange Bear Core",
-    "version" : "1.0.1",
+    "version" : "1.0.2",
     "unity" : "2021.3",
     "author" : "Onur ÖZEL",
     "description" : "This is a Orange Bear Core package for developing hypercasual games easily",

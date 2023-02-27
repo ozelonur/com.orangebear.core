@@ -1,4 +1,5 @@
-﻿using UnityEditor;
+#if UNITY_EDITOR
+using UnityEditor;
 using UnityEngine;
 
 namespace OrangeBear.Core
@@ -13,3 +14,4 @@ namespace OrangeBear.Core
         }
     }
 }
+#endif
